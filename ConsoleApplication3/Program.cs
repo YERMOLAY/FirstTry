@@ -13,6 +13,10 @@ namespace ConsoleApplication3
         {
             WriteLine("Hello world");
             ReadLine();
+            ReadKey();
+            ReadKey();
+            ReadKey();
+
         }
     }
 }
