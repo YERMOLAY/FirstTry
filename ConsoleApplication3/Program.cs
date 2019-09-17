@@ -11,6 +11,8 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
+            WriteLine("Hello world");
+            ReadLine();
         }
     }
 }
