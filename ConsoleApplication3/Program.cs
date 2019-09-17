@@ -19,6 +19,11 @@ namespace ConsoleApplication3
 
 
             WriteLine("Good luck");
+
+
+
+
+
         }
     }
 }
