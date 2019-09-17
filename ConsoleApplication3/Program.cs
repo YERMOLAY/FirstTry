@@ -17,6 +17,8 @@ namespace ConsoleApplication3
             ReadKey();
             ReadKey();
 
+
+            WriteLine("Good luck");
         }
     }
 }
